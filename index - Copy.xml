@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <sect1 id="navbarSupportedContent">
+    <orderedlist>
+      <listitem>
+        <para><note><remark>Mobile Specific Meta</remark></note><note><remark>&lt;!-- Favicon--&gt;</remark></note><note><remark>Author Meta</remark></note><note><remark>Meta Description</remark></note><note><remark>Meta Keyword</remark></note><note><remark>meta character set</remark></note><note><remark>Site Title</remark></note><note><remark>CSS</remark></note><note><remark>=============================================</remark></note><note><remark>start banner Area</remark></note><note><remark>Start Header Area</remark></note><note><remark>&lt;!--&lt;img src="img/logo.png" alt=""&gt;--&gt;</remark></note><link linkend="">Home</link> </para>
+      </listitem>
+      <listitem>
+        <para><link linkend="">Service</link> </para>
+      </listitem>
+      <listitem>
+        <para><link linkend="">About</link> </para>
+      </listitem>
+      <listitem>
+        <para><link linkend="">Contact</link> </para>
+      </listitem>
+    </orderedlist>
+  </sect1>
+  <para><note><remark>End Header Area</remark></note><inlinegraphic fileref="#img/me.png" width="0.7862inch" depth="0.3929inch"/> </para>
+  <para>Hi, I’m Sarwan Sherzad Software Engineer </para>
+  <para>Experienced Software Developer with demonstrated history of working in computer software industry.Skilled in many programming laguages such as Java, C++, C#, C, kotlin, Html, CSS, MySQL, JavaScript, JQuery ...etcIn addintion i'm Advanced at Graphic|User Interface(UI)|Ueser Experience(UX) Designer using Modern tools such as Adobe Illustrator, Adobe Photoshop, Adobe Experience Design(XD), Adobe InDesign, Adobe LightRoom, Adobe AfterEffects, Adobe Primer pro, Sketch app, Balsamiq ...etc. </para>
+  <para><link linkend="">Let Us Talk</link> </para>
+  <para><note><remark>End banner Area</remark></note><note><remark>Start service Area</remark></note>Have a Look at my Services</para>
+  <para><inlinegraphic fileref="#img/web.png" width="1.5626inch" depth="1.5626inch"/> </para>
+  <sect1>
+    <title/>
+    <sect2>
+      <title>
+        <olink targetdocent="">WEB DESIGN</olink>
+      </title>
+      <olink targetdocent="">WEB DESIGN</olink>
+      <para/>
+      <para>Usage of the Internet is becoming more common due to rapid advancement of technology and power.So with me you can build your own secure and scalable web applications and websites with best UI\UX design.</para>
+      <para><inlinegraphic fileref="#img/mob.png" width="1.5626inch" depth="1.5626inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>
+        <olink targetdocent="">ANDROID APP DEVELOPING</olink>
+      </title>
+      <olink targetdocent="">ANDROID APP DEVELOPING</olink>
+      <para/>
+      <para>Android now one of the most used operating system around the world, we can together make you your business in your pocket and easly accessed in any time with the highest performance by developing and designing best android app using best UI/UX design. </para>
+      <para><inlinegraphic fileref="#img/db.png" width="1.5626inch" depth="1.5626inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>
+        <olink targetdocent="">DATABASE  MANAGEMENT SYSTEM</olink>
+      </title>
+      <olink targetdocent="">DATABASE  MANAGEMENT SYSTEM</olink>
+      <para/>
+      <para>With good Database Management System (DBMS) you can make your business more organized and faster to grow, so with me you can have your DBMS depending carefully on your requirements and highlights </para>
+      <para><inlinegraphic fileref="#img/gd.png" width="1.5626inch" depth="1.5626inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>
+        <olink targetdocent="">GRAPHIC DESIGN</olink>
+      </title>
+      <olink targetdocent="">GRAPHIC DESIGN</olink>
+      <para/>
+      <para>One of the most important step to grow your industry is to have good branding and it's graphic design i'm here to brandistorm your brandings with history of working in this field. </para>
+      <para><inlinegraphic fileref="#img/ui.png" width="1.5626inch" depth="1.5626inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>
+        <olink targetdocent="">UI | UX DESIGN</olink>
+      </title>
+      <olink targetdocent="">UI | UX DESIGN</olink>
+      <para/>
+      <para>if you are a developer a want someone to make your project's aperfect UI\UX design,here i am lets make your project better together.</para>
+      <para><inlinegraphic fileref="#img/add.png" width="1.5626inch" depth="1.5626inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>
+        <olink targetdocent="">ADDITIONAL SERVICE</olink>
+      </title>
+      <olink targetdocent="">ADDITIONAL SERVICE</olink>
+      <para/>
+      <para>To complete my product suite and expand my relationship with customers, i'm offer additional services which enable my clients to receive the best result from their investment. </para>
+      <para>
+        <note>
+          <remark>End service Area</remark>
+        </note>
+        <note>
+          <remark>Start about Area</remark>
+        </note>
+      </para>
+      <para>About Myself</para>
+      <para>Want to know more about me? ok,i'm Sarwan Sherzad Software engineer, digital artist and designer, working insoftware development, web development and print media. If you have a project that needs some creative injection then that’s where I come in! My job is to build your digital project so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. </para>
+    </sect2>
+    <sect2>
+      <title>Tools Expertness</title>
+      <para>Programming 90%</para>
+      <para>UI\UX Designing 85%</para>
+      <para>Graphic Designing 94%</para>
+      <para>Android APP development 65%</para>
+      <para>DBMS 90%</para>
+      <para><inlinegraphic fileref="#img/pro.png" width="0.7862inch" depth="0.3929inch"/> </para>
+    </sect2>
+    <sect2>
+      <title>Sarwan Sherzad Rahman</title>
+      <para>Software Engineer</para>
+      <para>+964 750 837 1414</para>
+      <para>sarwan.davidy@gmail.com</para>
+      <para><link linkend="">Hire Me</link> </para>
+      <para><note><remark>End about Area</remark></note><note><remark>Start qualification Area</remark></note>My Qualifications</para>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>Bachelor in software and informatic engineering</title>
+    <para>2017 - 2018</para>
+    <sect2>
+      <title>at Salahaddin University - colage of engineering</title>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>GRAPHIC DESIGNER</title>
+    <para>For three months </para>
+    <sect2>
+      <title>At KeenTech company - erbil</title>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>SUMMER INTERSHIP</title>
+    <para>2016 - 2017</para>
+    <para>AT JIASAZ COMPANY - ERBIL </para>
+  </sect1>
+  <sect1>
+    <title>IT MANAGER</title>
+    <para>20018 Tto present</para>
+    <para>AT CAMBRIDGE ESOL - ERBIL </para>
+    <para><note><remark>End qualification Area</remark></note><note><remark>start contact Area</remark></note>If you need, Just drop me a line</para>
+    <para>   </para>
+    <para> Send Message </para>
+    <sect2>
+      <title/>
+      <sect3>
+        <title><note><remark>end contact Area</remark></note><note><remark>start footer Area</remark></note>Follow me</title>
+        <note>
+          <remark>end contact Area</remark>
+        </note>
+        <note>
+          <remark>start footer Area</remark>
+        </note>
+        <para>Let us be social</para>
+        <para>
+          <note>
+            <remark>End footer Area</remark>
+          </note>
+        </para>
+      </sect3>
+    </sect2>
+  </sect1>
+</article>
